@@ -1,0 +1,1 @@
+To Connect remote mongdb server : mongosh "mongodb://cmdlhrltx03:27017"
